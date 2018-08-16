@@ -1,0 +1,15 @@
+{
+	"name": "Halsey",
+	"age": 29,
+	"languages": ["Java", "JavaScript", "Python"],
+	"jobs": [
+		{
+			"Company": "Express-Scripts",
+			"Title": "Software Developer",
+		},
+		{
+			"Company": "Medtech Momentum",
+			"Title":"Web Designer and Developer",
+		}
+	]
+}
