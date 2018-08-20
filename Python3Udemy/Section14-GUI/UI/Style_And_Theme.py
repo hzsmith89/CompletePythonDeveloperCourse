@@ -51,3 +51,8 @@ button2.state(['disabled'])
 
 # Enables Button 2
 button2.state(['!disabled'])
+<<<<<<< HEAD
+
+root.mainloop()
+=======
+>>>>>>> 1998cce631717a6bee876ff3bf956bab2aa72f05
